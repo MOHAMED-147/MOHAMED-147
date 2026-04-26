@@ -10,8 +10,8 @@
 <img src="https://raw.githubusercontent.com/KGF-143/Profail/refs/heads/main/IMG_%D9%A2%D9%A0%D9%A2%D9%A6%D9%A0%D9%A4%D9%A2%D9%A6_%D9%A2%D9%A0%D9%A2%D9%A8%D9%A0%D9%A7.jpg" width="100" height="180" align="right">
 <center>
  
-<a href="https://Instagram.com/eu4.ip" target="_blank"><img src="https://github.com/MAHADI-143/blob/main/Image/instagram.png" alt="alt text" width="81" height="81"></a> 
-<a href="https://t.me/ru4ili"><img src="https://github.com/MAHADI-143/MAHADI/blob/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
+<a href="https://Instagram.com/eu4.ip" target="_blank"><img src="https://raw.githubusercontent.com/MAHADI-143/MAHADI-143/refs/heads/main/Image/instagram.png" alt="alt text" width="81" height="81"></a> 
+<a href="https://t.me/ru4ili"><img src="https://raw.githubusercontent.com/MAHADI-143/MAHADI-143/refs/heads/main/Image/telegram.png" alt="alt text" width="81" height="81"></a>
 <a href="https://www.facebook.com/eu4.il" target="_blank"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/facebook.png" alt="alt text" width="81" height="81"></a> <a href="https://youtube.com/@MAHADI-143"><img src="https://github.com/MAHADI-143/MAHADI-143/blob/main/Image/youtube.png" alt="alt text" width="81" height="81"></a> 
  
 __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
@@ -28,8 +28,8 @@ __𝗣𝗿𝗼𝗴𝗿𝗮𝗺𝗺𝗶𝗻𝗴__🩵🩷💖💙💜🖤🩶
 
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/MAHADI-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MAHADI-143&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt =" MOHAMED-147 GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/MAHADI-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHADI-143&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/MAHADI-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=MOHAMED-147&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt =" MOHAMED-147 GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/MAHADI-143/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAHADI-147&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
